@@ -21,4 +21,10 @@
 🚀 My goal is to become an AI Engineer and build intelligent software that creates real-world impact.
 
 
+## 🐍 Contribution Snake
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bharanitharan-P/Bharanitharan-P/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bharanitharan-P/Bharanitharan-P/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Bharanitharan-P/Bharanitharan-P/output/github-contribution-grid-snake.svg">
+</picture>
