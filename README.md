@@ -8,19 +8,19 @@
 
 📍 Tamil Nadu, India
 
-(Your Typing Animation Here)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&background=00000080&center=true&vCenter=true&width=600&height=60&lines=AI+%2F+Data+Scientist;Machine+Learning+Enthusiast;Python+Programmer;Generative+AI+Learner)](https://git.io/typing-svg)
 
 ## 👨‍💻 About Me
 
-🎓 M.Sc. Data Science Graduate
-
 🤖 Passionate about Artificial Intelligence, Machine Learning, and Generative AI.
 
-💻 I enjoy building AI-powered applications that solve real-world problems.
+💻 Building AI-powered applications using Python, Machine Learning, and Deep Learning.
 
 🌱 Currently learning Generative AI, AI Automation, FastAPI, Docker, and Linux.
 
-🚀 My goal is to become an AI Engineer and build intelligent software that creates real impact.
+📚 Interested in Computer Vision, Large Language Models (LLMs), and AI Agents.
+
+🚀 My goal is to become an AI Engineer and build intelligent software that creates real-world impact.
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&background=00000080&center=true&vCenter=true&width=600&height=60&lines=AI+%2F+Data+Scientist;Machine+Learning+Enthusiast;Python+Programmer;Generative+AI+Learner)](https://git.io/typing-svg)
+
