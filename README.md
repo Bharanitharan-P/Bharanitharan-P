@@ -8,7 +8,7 @@
 
 📍 Tamil Nadu, India
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF3B3B&background=0D1117&center=true&vCenter=true&width=600&height=60&lines=AI+%2F+Data+Scientist;Machine+Learning+Enthusiast;Python+Programmer;Generative+AI+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF3B3B&background=FF6A35&center=true&vCenter=true&width=600&height=60&lines=AI+%2F+Data+Scientist;Machine+Learning+Enthusiast;Python+Programmer;Generative+AI+Learner)](https://git.io/typing-svg)
 
 🤖 Passionate about Artificial Intelligence, Machine Learning, and Generative AI.
 
